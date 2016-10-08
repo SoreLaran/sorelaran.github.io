@@ -46,13 +46,13 @@ h1 {
   font-family: 'Changa', sans-serif;
   margin: 15px 0;
   font-size: 1.75em;
-  font-weight: normal;
+  font-weight: bold;
   line-height: 0.8em;
 }
 
 h2 {
   font-size: 0.75em;
-  margin: -5px 0 0;
+  margin: -10px 0 0;
   font-weight: normal;
 }
 
@@ -176,6 +176,7 @@ PAGE: CONTACT
 .contact-info li.twitter a {
   background-image: url('../img/twitter.png');
 }
+
 
 
 
