@@ -43,7 +43,7 @@ header {
 }
 
 h1 {
-  font-family: 'Changa One', sans-serif;
+  font-family: 'Changa', sans-serif;
   margin: 15px 0;
   font-size: 1.75em;
   font-weight: normal;
@@ -51,7 +51,6 @@ h1 {
 }
 
 h2 {
-  font-family: 'Changa One', sans-serif;
   font-size: 0.75em;
   margin: -5px 0 0;
   font-weight: normal;
